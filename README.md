@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Həmid</h1>
-<h3 align="center">A cybersecurity student from ASCCA</h3>
+<h1 align="center">Salam 👋, adım Həmiddir.</h1>
+<h3 align="center">DGK Akademiyasında kibertəhlükəsizlik öyrənirəm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enderloom&label=Profile%20views&color=0e75b6&style=flat" alt="enderloom" /> </p>
 
-- 🔭 I’m currently working on **a school project about making a tool to securely share files with each other**
+- 🔭 Hal hazırda **faylları təhlükəsiz şəkildə bir-biri ilə paylaşmaq üçün proqram** üzərində işləyirəm.
 
-- 🌱 I’m currently learning **C and C++ programming language**
+- 🌱 **C and C++ proqramlaşdırma dillərini** öyrənirəm
 
-- 👯 Our team is currently consists of **10 people**
+- 👯 Komandamız **10 nəfər**dən ibarətdir
 
-- 💬 You can always DM me on Instagram **@10.hemiddi**
+- 💬 Instagramda **btwhemid** hesabına istənilən zaman mənə yaza bilərsiz
 
-- 📫 How to reach me **hemidzeki200@gmail.com**
+- 📫 E-mail ünvanım: **hemidzeki200@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mənimlə əlaqədə qal:</h3>
 <p align="left">
-<a href="https://instagram.com/10.hemiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="10.hemiddi" height="30" width="40" /></a>
+<a href="https://instagram.com/btwhemid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwhemid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
